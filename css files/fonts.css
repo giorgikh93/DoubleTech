@@ -1,0 +1,9 @@
+@font-face{
+    font-family: 'phoneSans';
+src: url("../fonts/bpgphonesanswebfont.ttf");
+src: url('../fonts/bpgphonesanswebfont.eot') format('embedded-opentype'),
+         url('../fonts/bpgphonesanswebfont.woff2') format('woff2'),
+         url('../fonts/bpgphonesanswebfont.woff') format('woff'),
+         url('../fonts/bpgphonesanswebfont.ttf') format('truetype'),
+         url('../fonts/bpgphonesanswebfont.svg#bpgphonesanswebfont') format('svg');
+}
